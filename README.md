@@ -16,3 +16,6 @@ To use this script, follow the steps below:
 - Compute the Average Precision for calculating the mAP.
 - Compute the Mean Average Precision (mAP).
 - Visualize some plots for better understanding.
+
+## **Troubleshooting**
+If you encounter any issues while running this script, feel free to raise an issue in the GitHub repository.
