@@ -1,4 +1,4 @@
-# Calculating-IoU-mAP-for-Object-Detection-Models
+# Calculating-IoU-mAP-for-Object-Detection-Model
 
 This Python script calculates the mAP of any object detection model. It takes 5 ground-truth boxes and 5 predicted boxes and computes the Intersection over Union (IoU), confusion matrix (TP, FP), Average Precision (AP), and Mean Average Precision (mAP), finally plotting the Precision-Recall curve.
 
